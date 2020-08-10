@@ -5,5 +5,5 @@ Projects implemented in Python and R with the goal of improving problem solving 
 
 #### Find Prime Numbers
 Find prime numbers in a user specified range.
-- [R](find_primes/find_primes.R)
+- [R](find_primes/find_primes.r)
 - [Python](find_primes/find_primes.py)
